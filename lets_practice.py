@@ -1,8 +1,8 @@
 import numpy as np
 
 if __name__ == "__main__":
-    q = np.random.rand(3)
-    b = np.random.rand(3)
-    c = np.random.rand(3)
-    print('Hello', q + b + c)
-    
+    a = np.random.rand(4)
+    q = np.random.rand(4)
+    b = np.random.rand(4)
+    c = np.random.rand(4)
+    print('Hello', a + q + b + c)
