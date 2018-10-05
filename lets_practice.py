@@ -5,3 +5,4 @@ if __name__ == "__main__":
     b = np.random.rand(3)
     c = np.random.rand(3)
     print('Hello', q + b + c)
+    
